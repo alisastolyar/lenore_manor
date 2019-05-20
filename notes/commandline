@@ -1,0 +1,4 @@
+argc = argument count
+integer type variable which will store the number of command line statments
+argv = argument vector
+an array of all your arguments; vector is another word for array, this array stores everything as a string, even numbers; index starts with zero

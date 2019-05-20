@@ -1,0 +1,4 @@
+0. any dimension between 3 and 9
+1. 2D array
+2.
+3. init, draw, move, won
